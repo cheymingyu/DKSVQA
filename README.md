@@ -14,7 +14,7 @@
 Build on CUDA 12.3
 
 
-To run this code, download `annotations_trainval2014.zip` from [here](https://cocodataset.org/#download) and extract in `annotation_new/`
+To run this code, download `annotations_trainval2014.zip` from [here](https://cocodataset.org/#download) and extract in `./annotation_new/`
 
 ## Run
 
