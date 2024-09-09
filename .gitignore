@@ -3,5 +3,5 @@
 */.DS_Store
 
 __pycache__
-annotation_new/*.
+annotation_new/*
 output/
