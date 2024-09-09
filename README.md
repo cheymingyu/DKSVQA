@@ -1,9 +1,9 @@
 # Diverse Knowledge Selection for Enhanced Zero-shot Visual Question Answering
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="./figure/framework_final-1.png" width="80%" height="80%">
-</p>
+</p> -->
 
 
 ## Requirements
